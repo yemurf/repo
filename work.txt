@@ -1,0 +1,12 @@
+f02
+noto sans kr
+regular 13pt 15pt medium 15pt 25pt
+
+온글잎 보통 40, 25, 22, 19
+
+진한거
+A6886D
+연한거
+f2ebdf
+
+f07 이미지 360*240
